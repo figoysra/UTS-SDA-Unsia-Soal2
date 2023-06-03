@@ -1,0 +1,3 @@
+K:/Kuliah/Struktur Data dan Algoritma/UTS/Soal2/cmake-build-debug/CMakeFiles/Soal2.dir
+K:/Kuliah/Struktur Data dan Algoritma/UTS/Soal2/cmake-build-debug/CMakeFiles/edit_cache.dir
+K:/Kuliah/Struktur Data dan Algoritma/UTS/Soal2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
